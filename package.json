@@ -47,8 +47,5 @@
     "rollup-plugin-terser": "^7.0.2",
     "start-server-and-test": "^1.14.0",
     "svelte-jester": "^2.3.2"
-  },
-  "engines": {
-    "node": "12"
   }
 }
